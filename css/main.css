@@ -1,0 +1,887 @@
+@media (min-width: 320px) and (max-width: 480px) {
+  
+    .banner-section {
+        top: 2px;
+    }
+
+    .menu-section .navbar-brand img {
+        width: 84px;
+        margin-left: -27px;
+        margin-top: -20px;
+    }
+    .navbar-toggler {
+        padding: 5px 8px;
+        margin-bottom: 30px;
+    }
+    .navbar-collapse {
+        margin-top: -35px;
+        
+    }
+
+    .menu-section .navbar-light .navbar-nav .active>.nav-link {
+        font-size: 11px;
+        background: none;
+    }
+    .menu-section .navbar-light .navbar-nav .nav-link {
+        color: #1449de;
+        font-size: 11px;
+        margin-right: 0px;
+        text-align: right;
+        margin-bottom: -16px;
+    }
+    .menu-section .right-login .nav-link {
+        color: #0e55d8;
+        font-size: 11px;
+        margin: 0px -15px;
+        text-align: right;
+        margin-bottom: -8px;
+        margin-top: -8px;
+    }
+    .form-inline {
+        flex-flow: column;
+        align-items: flex-end;
+       
+    }
+    .menu-section .right-login .btn-info {
+        font-size: 11px;
+        padding: 3px 10px;
+    }
+
+    .inner-banner {
+        text-align: left;
+        padding-top: 60px;
+    }
+
+    .inner-banner h1 {
+        font-size: 17px;
+        line-height: 28px;
+        margin-bottom: 5px;
+        width: 200px;
+    }
+
+    .inner-banner .bbtn {
+        font-size: 11px;
+        letter-spacing: 1px;
+        padding: 5px 8px;
+    }
+
+    .highlight-section {
+        width: 100%;
+        padding: 0px 0px;
+        bottom: 57%;
+    }
+    .inner-highlight .highlightw {
+       display: none;
+    
+    }
+    .inner-highlight h3 {
+        font-size: 11px;
+        line-height: 26px;
+        margin-top: 8px;
+        position: relative;
+        font-weight: 400;
+    }
+ 
+    .feature-section {
+        width: 100%;
+        padding: 80px 0px;
+    }
+
+    .inner-feature {
+        height: 136px;
+        background: url(../img/feature.png) center bottom no-repeat;
+        background-size: cover;
+        padding: 5px 0px 0px 16px;
+    }
+
+    .inner-feature h1 {
+        font-size: 16px;
+        line-height: 20px;
+        padding-bottom: 15px;
+    }
+    .inner-feature p {
+        font-size: 13px;
+        line-height: 23px;
+        padding-bottom: 0px;
+        margin-bottom: 0;
+    }
+
+    .inner-feature h4 strong {
+        font-size: 30px;
+        line-height: 40px;
+        
+    }
+
+    .inner-feature h4 span {
+        font-size: 11px;
+        
+    }
+    .cli-section {
+        padding-top: 65px;
+    }
+
+    .cli-section .client img {
+        width: 90%;
+    }
+     
+    .intro-quote {
+        padding: 70px 0px 115px;
+        
+    }
+
+
+    .quote-pic {
+        padding: 98px 45px 80px 92px;
+       
+    }
+
+    .quote-pic p {
+        font-size: 12px;
+        line-height: 20px;
+         margin-left: 0; 
+    }
+    .quote-pic h6 {
+        font-size: 13px;
+        margin-left: 0;
+    }
+    .quote-das {
+        width: 100%;
+        padding: 30px 0px;
+    }
+    .quote-das h2 {
+        font-size: 20px;
+        line-height: 30px;
+        text-align: center;
+    }
+    .quote-das .btn-info {
+        font-size: 12px;
+        letter-spacing: 1px;
+        margin-top: 15px;
+        padding: 4px 14px;
+        margin-left: 80px;
+    }
+
+    .effciency-section {
+        width: 100%;
+        padding: 0px 0px 50px;
+        margin-top: -50px;
+    }
+    .inner-effi {
+        width: 100%;
+        height: 320px;
+        padding-top: 0px;
+    }
+
+    .inner-effi h2 {
+        font-size: 30px;
+        line-height: 40px;
+        margin-bottom: 15px;
+    }
+
+    .inner-effi p {
+        font-size: 8px;
+        line-height: 16px;
+        margin-bottom: 0px;
+    }
+
+    .inner-effi h6 {
+        font-size: 11px;
+        line-height: 26px;
+        margin: 20px 0px;
+    }
+
+    .inner-effi .btn-info {
+        font-size: 8px;
+        letter-spacing: 1px;
+        margin-top: 10px;
+        padding: 5px 10px;
+        
+    }
+
+    .design-section {
+        padding: 10px 0px 45px;
+        
+    }
+
+    .design-section .title h1 {
+        font-size: 25px;
+        line-height: 35px;
+        padding: 15px 0px;
+        
+    }
+    .design-section .title p {
+        font-size: 12px;
+        line-height: 24px;
+        padding-bottom: 10px;
+    }
+    .inner-design h5 {
+        font-size: 20px;
+        line-height: 30px;
+       
+    }
+    .bor {
+        border-bottom: 1px solid #f2f2f2;
+    }
+    .inner-design p {
+        font-size: 14px;
+        line-height: 24px;  
+    }
+    .inspirational-section {
+        padding: 0px 0px 50px;
+    }
+    .inspirational-section .title {
+        padding: 30px 0px 30px;
+    }
+    .inspirational-section .title h1 {
+        font-size: 30px;
+        line-height: 40px;
+       
+    }
+    .inner-insp {
+        height: 400px;
+        margin-bottom: 15px;
+    }
+    .inner-insp .text-inner {
+        padding: 40px 0px 40px;
+    
+    }
+    .inner-insp .text-inner p {
+        font-size: 13px;
+        line-height: 24px;
+        
+    }
+    .footer-section {
+        padding: 0px 0px;
+        
+    }
+    .footer-section .faq {
+        width: 100%;
+        padding: 0;
+        background: #fff;
+        box-shadow: 1px 4px 10px #ccc;
+        margin-bottom: 0;
+      
+    }
+    .faq .title {
+        padding-bottom: 30px;
+        padding-top: 30px;
+       
+    }
+    .faq .title h3 {
+        font-size: 25px;
+        line-height: 35px;
+         margin-bottom: 0; 
+    }
+    .inner-faq {
+        width: 100%;
+        padding: 0px 0px;
+    }
+
+    .inner-faq .btn-link {
+        font-size: 12px;
+        
+    }
+    .inner-faq .card-body {
+        padding: 10px;
+        font-size: 10px;
+       
+    }
+    .inner-footer ul {
+        display: block;
+        margin-bottom: -4px;
+        text-align: center;
+    }
+    .inner-footer ul li a {
+        font-size: 12px;
+        margin-right: 20px;
+    }
+    .inner-footer {
+        width: 100%;
+        margin-bottom: 0px;
+    }
+    .inner-footer p {
+        font-size: 12px;
+        
+    }
+
+
+  }
+
+
+
+
+
+  @media (min-width: 481px) and (max-width: 767px) {
+    .menu-section {
+        top: -20px;
+    }
+    .navbar-light .navbar-brand {
+        margin-left: -20px;
+    }
+    .banner-section {
+        top: 65px;
+        left: 0;
+    }
+    .inner-banner {
+        text-align: left;
+        padding-top: 42px;
+    }
+    .inner-banner h1 {
+        font-size: 27px;
+        line-height: 40px;
+        margin-bottom: 15px;
+        
+    }
+    .inner-banner .bbtn {
+        font-size: 12px;
+        letter-spacing: 1px;
+        padding: 8px 13px;
+        
+    }
+    .highlight-section {
+        padding: 0px 0px;
+        bottom: 54%;
+    }
+    .inner-highlight .highlightw {
+        display: none;
+    }
+    .inner-highlight h3 {
+        font-size: 18px;
+        line-height: 28px;
+        margin-top: 11px;
+        
+    }
+    .menu-section .navbar-light .navbar-nav .active>.nav-link {
+        font-size: 11px;
+        background: none;
+    }
+    .menu-section .navbar-light .navbar-nav .nav-link {
+        color: #1449de;
+        font-size: 11px;
+        margin-right: 0px;
+        text-align: right;
+        margin-bottom: -16px;
+    }
+    .menu-section .right-login .nav-link {
+        color: #0e55d8;
+        font-size: 11px;
+        margin: 0px -15px;
+        text-align: right;
+        margin-bottom: -8px;
+        margin-top: -8px;
+    }
+    .form-inline {
+        flex-flow: column;
+        align-items: flex-end;
+       
+    }
+    .menu-section .right-login .btn-info {
+        font-size: 11px;
+        padding: 3px 10px;
+    }
+    .feature-section {
+        width: 100%;
+        padding: 50px 0px;
+    }
+
+    .inner-feature {
+        height: 350px;
+        background: url(../img/feature.png) center bottom no-repeat;
+        background-size: cover;
+        padding: 42px 0px 0px 20px;
+    }
+
+    .inner-feature h1 {
+        font-size: 17px;
+        line-height: 25px;
+        padding-bottom: 0px;
+    }
+    .inner-feature p {
+        font-size: 13px;
+        line-height: 23px;
+        padding-bottom: 0px;
+        margin-bottom: 0;
+        width: 260px;
+    }
+
+    .inner-feature h4 strong {
+        font-size: 30px;
+        line-height: 40px;
+        
+    }
+
+    .inner-feature h4 span {
+        font-size: 11px;
+        
+    }
+    .cli-section .client img {
+        margin-top: -50px;
+        
+    }
+    .intro-quote {
+        padding: 80px 0px;
+        
+    }
+    .quote-pic {
+        padding: 70px 50px 115px 120px;
+        margin-top: 30px;
+    }
+    .quote-pic p {
+        margin-left: 20px;
+        margin-top: 40px;
+    }
+    .quote-das {
+        margin-top: -50px;
+        padding: 83px 64px 136px 70px;
+        text-align: center;
+    }
+    .quote-das h2 {
+        font-size: 27px;
+        line-height: 35px;
+        
+    }
+    .quote-das .btn-info {
+        font-size: 13px;
+        letter-spacing: 1px;
+        margin-top: 10px;
+        padding: 5px 12px;
+    
+        
+    }
+    .effciency-section {
+        padding: 50px 0px 70px;
+        margin-top: -140px;
+    }
+    .inner-effi {
+        height: 350px;
+        padding-top: 0px;
+        text-align: center;
+    }
+    .inner-effi h2 {
+        font-size: 30px;
+        line-height: 40px;
+        margin-bottom: 15px;
+    }
+    .inner-effi p {
+        font-size: 12px;
+        line-height: 22px;
+        margin-bottom: 20px;
+    }
+    .inner-effi h6 {
+        font-size: 14px;
+        line-height: 26px;
+        margin: 20px 0px;
+    }
+    .inner-effi .btn-info {
+        font-size: 13px;
+        letter-spacing: 1px;
+        margin-top: 10px;
+        padding: 9px 13px;
+        
+    }
+    .design-section {
+        padding: 50px 0px 40px;
+        
+    }
+    .design-section .title h1 {
+        font-size: 30px;
+        line-height: 40px;
+        padding: 0px 0px 15px;
+       
+    }
+    .design-section .title p {
+        font-size: 11px;
+        padding-bottom: 10px;
+    }
+    .bor {
+        border-bottom: 1px solid #f2f2f2;
+        border-right: 0;
+    }
+    .inspirational-section {
+        padding: 25px 0px 0px;
+    }
+    .inspirational-section .title {
+        padding: 10px 0px 35px;
+    }
+    .inspirational-section .title h1 {
+        font-size: 30px;
+        line-height: 40px;
+        
+    }
+    .inner-insp {
+        height: 438px;
+        margin-bottom: 20px;
+    }
+    .inner-insp .text-inner {
+        padding: 55px 0px 43px;
+        
+    }
+    .footer-section {
+        padding: 40px 0px 0px;
+    }
+    .footer-section .faq {
+        width: 100%;
+        padding: 0;
+        background: #fff;
+        box-shadow: 1px 4px 10px #ccc;
+        margin-bottom: 0;
+      
+    }
+    .faq .title {
+        padding-bottom: 10px;
+        padding-top: 30px;
+    }
+    .faq .title h3 {
+        font-size: 30px;
+        line-height: 40px;
+        margin-bottom: 0;
+    }
+    .inner-faq {
+        width: 100%;
+        padding: 0px 0px;
+    }
+
+    .inner-faq .btn-link {
+        font-size: 15px;
+        
+    }
+    .inner-faq .card-body {
+        padding: 10px;
+        font-size: 13px;
+       
+    }
+    .inner-footer ul {
+        display: block;
+        margin-bottom: -4px;
+        text-align: center;
+    }
+    .inner-footer ul li a {
+        font-size: 12px;
+        margin-right: 20px;
+    }
+    .inner-footer {
+        width: 100%;
+        margin-bottom: 5px;
+        margin-top: 8px;
+    }
+    .inner-footer p {
+        font-size: 12px;
+        
+    }
+    .text-right {
+        text-align: center!important;
+    }
+
+    
+  }
+
+  
+
+  @media (min-width: 768px) and (max-width: 1024px) {
+    .navbar-light .navbar-brand {
+        margin-left: -25px;
+    }
+    .banner-section {
+        top: 90px;
+        left: 0;
+    }
+    .inner-banner {
+        text-align: left;
+        padding-top: 42px;
+    }
+    .inner-banner h1 {
+        font-size: 38px;
+        line-height: 48px;
+        margin-bottom: 25px;
+    }
+    .inner-banner .bbtn {
+        font-size: 16px;
+        letter-spacing: 2px;
+        padding: 10px 25px;
+    }
+    .highlight-section {
+        padding: 45px 0px;
+        bottom: 44%;
+    }
+    .inner-highlight .highlightw {
+        position: absolute;
+        top: -85px;
+        left: -35px;
+        width: 27%;
+    }
+    .inner-highlight h3 {
+        font-size: 22px;
+        line-height: 30px;
+        margin-top: 5px;
+    }
+    .menu-section .navbar-light .navbar-nav .active>.nav-link {
+        font-size: 18px;
+        background: none;
+    }
+    .menu-section .navbar-light .navbar-nav .nav-link {
+        color: #010101;
+        font-size: 18px;
+        margin-right: 0px;
+        text-align: right;
+        margin-bottom: 5px;
+    }
+    .menu-section .right-login .nav-link {
+        color: #1a1a1a;
+        font-size: 18px;
+        margin: 0px -15px;
+        text-align: right;
+        margin-bottom: 15px;
+        margin-top: -10px;
+    }
+    .form-inline {
+        flex-flow: column;
+        align-items: flex-end;
+       
+    }
+    .menu-section .right-login .btn-info {
+        font-size: 18px;
+        padding: 5px 25px;
+    }
+    .feature-section {
+        padding: 100px 0px 10px;
+    }
+    .inner-feature {
+        height: 540px;
+        padding: 45px 0px 0px 46px;
+    }
+    .inner-feature h1 {
+        font-size: 30px;
+        line-height: 40px;
+        padding-bottom: 10px;
+    }
+    .inner-feature p {
+        font-size: 18px;
+        line-height: 28px;
+        padding-bottom: 0px;
+        width: 275px;
+    }
+    .inner-feature h4 strong {
+        font-size: 50px;
+        line-height: 60px;
+        
+    }
+    .intro-quote .col-12 {
+        -ms-flex: 0 0 100%;
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+    .intro-quote {
+        padding: 125px 0px 165px;
+    }
+    .quote-pic {
+        padding: 130px 50px 135px 250px;
+       
+    }
+    .quote-pic p {
+        font-size: 18px;
+        margin-left: 5px;
+    }
+    .quote-pic h6 {
+        font-size: 18px;
+        margin-left: 5px;
+    }
+    .quote-das {
+        padding: 30px 60px 80px 80px;
+        text-align: center;
+        
+    }
+    .quote-das h2 {
+        font-size: 30px;
+        line-height: 40px;
+        
+    }
+    .effciency-section {
+        padding: 0px 0px 50px;
+        margin-top: -90px;
+    }
+    .inner-effi {
+        height: 500px;
+        padding-top: 0px;
+    }
+    .inner-effi h2 {
+        font-size: 29px;
+        line-height: 40px;
+        margin-bottom: 25px;
+    }
+    .inner-effi p {
+        margin-bottom: 10px;
+    }
+    .inner-effi h6 {
+        font-size: 14px;
+        
+    }
+    .inner-effi .btn-info {
+        font-size: 14px;
+        letter-spacing: 2px;
+        margin-top: 0px;
+        padding: 5px 15px;
+        
+    }
+    .effi-img {
+        margin-top: 80px;
+    }
+    .design-section {
+        padding: 35px 0px 35px;
+        
+    }
+    .design-section .title h1 {
+        font-size: 30px;
+        line-height: 40px;
+        padding: 15px 0px;
+       
+    }
+    .design-section .title p {
+        padding-bottom: 35px;
+    }
+    .inner-design h5 {
+        font-size: 16px;
+        line-height: 26px;
+      
+    }
+    .inner-design p {
+        font-size: 12px;
+        line-height: 24px;
+       
+    }
+    .inspirational-section {
+        width: 100%;
+        padding: 40px 0px 60px;
+    }
+    .inspirational-section .col-md-3 {
+        -ms-flex: 0 0 50%;
+        flex: 0 0 50%;
+        max-width: 50%;
+    }
+    .inspirational-section .title {
+        padding: 0px 0px 50px;
+    }
+    .inspirational-section .title h1 {
+        font-size: 40px;
+        line-height: 50px;
+        font-weight: 900;
+        color: #000;
+        text-transform: capitalize;
+    }
+    .inner-insp .text-inner {
+        padding: 60px 0px 85px;
+        
+    }
+    .inner-insp {
+        margin-bottom: 35px;
+    }
+    .footer-section {
+        padding: 15px 0px 0px;
+        
+    }
+    .footer-section .faq {
+        padding: 50px 0;
+        margin-bottom: 80px;
+    }
+    .faq .title {
+        padding-bottom: 20px;
+    }
+    .faq .title h3 {
+        font-size: 30px;
+        margin-bottom: 20px;
+    }
+    .inner-faq {
+        padding: 0px 20px;
+    }
+    .inner-footer {
+        margin-bottom: 15px;
+        margin-top: -50px;
+    }
+  
+    
+  }
+
+  @media (min-width: 1025px) and (max-width: 1280px) {
+    .banner-section {
+        top: 140px;
+       
+    }
+
+    .highlight-section {
+        bottom: -13%;
+    }
+    .highlight-section {
+        padding: 30px 0px;
+       
+    }
+    .inner-highlight .highlightw {
+        top: -100px;
+        left: -60px;
+        
+    }
+    .inner-highlight h3 {
+        font-size: 30px;
+        margin-top: 11px;
+        
+    }
+  
+    
+    
+  }
+  
+
+  @media (min-width: 1281px) and (max-width: 1440px) {
+    .banner-section {
+        top: 200px;
+       
+    }
+
+    .highlight-section {
+        bottom: -10%;
+    }
+    .highlight-section {
+        padding: 30px 0px;
+       
+    }
+    .inner-highlight .highlightw {
+        top: -100px;
+        left: -60px;
+        
+    }
+    .inner-highlight h3 {
+        font-size: 30px;
+        margin-top: 11px;
+        
+    }
+  
+    
+    
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
